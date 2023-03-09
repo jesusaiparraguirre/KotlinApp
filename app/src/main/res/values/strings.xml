@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Willay</string>
+    <string name="view_home">Inicio</string>
+    <string name="view_debts">Valores extras</string>
+
+    <!-- Strings related to login -->
+    <string name="title_login">Inicio de Sesión</string>
+    <string name="title_home">Bienvenido</string>
+    <string name="desc_login">Ingresa tus credenciales para continuar</string>
+    <string name="desc_home">Usuario ...</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Continuar</string>
+    <string name="action_home">Ver deudas</string>
+    <string name="off_home">Cerrar sesión</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="invalid_username">Correo electrónico no válido</string>
+    <string name="invalid_password">Contraseña no válida</string>
+    <string name="login_failed">"Inicio de sesión fallido"</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+
+</resources>
